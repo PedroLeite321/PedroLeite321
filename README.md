@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Me chamo Pedro Kauã de Barros Leite, prazer. Seja bem-vindo ao meu perfil do Github
 
-🎯 **Profissional de Infraestrutura | Explorando Backend, DevOps e Desenvolvimento Web**
+🎯 **Profissional de Infraestrutura | Explorando DevOps e Desenvolvimento Web**
 
 ---
 
@@ -13,7 +13,6 @@ Sou um profissional com experiência em **infraestrutura de TI**, especialmente 
 - 🧠 **Integração com IA** para soluções inteligentes de suporte
 - 💻 **Frontend com React** (em aprendizado)
 
-Meu objetivo é migrar para o mundo do **desenvolvimento remoto**, focando em projetos que envolvem automação, inteligência artificial e sistemas de suporte.
 
 ---
 
@@ -22,7 +21,8 @@ Meu objetivo é migrar para o mundo do **desenvolvimento remoto**, focando em pr
 - 🖥️ Suporte e infraestrutura de TI tradicional
 - 🛠️ Servidores baremetal, Hyper-V, redes e manutenção
 - 📈 Aprendizado contínuo nas áreas de programação e DevOps
-
+- 🌐 Gestão de redes locais
+  
 ---
 
 ## 📚 Em aprendizado
@@ -30,7 +30,7 @@ Meu objetivo é migrar para o mundo do **desenvolvimento remoto**, focando em pr
 - Node.js + Express (Backend)
 - React (Frontend)
 - Git & GitHub (Controle de versão)
-- PowerShell & CMD avançado
+- PowerShell & CMD
 - CI/CD e ferramentas DevOps (foco futuro)
 
 ---
@@ -38,17 +38,16 @@ Meu objetivo é migrar para o mundo do **desenvolvimento remoto**, focando em pr
 ## 🌍 Idiomas
 
 - 🇧🇷 Português (nativo)
-- 🇺🇸 Inglês (nível B2 em desenvolvimento)
+- 🇺🇸 Inglês (nível B2 plena compreensão e fala)
 
 ---
 
 ## 📫 Contato
 
-- ✉️ [Seu email aqui]
-- 💼 [LinkedIn ou outro perfil profissional]
-- 🌐 [Seu portfólio ou site pessoal, se houver]
-- 🛠️ Fiverr: [Link para seu perfil Fiverr, se quiser divulgar]
+- ✉️ Email: [pedro.kaua.contato@gmail.com]
+- 🌐 Portfolio: [Em desenvolvimento]
+- 🛠️ Fiverr: [Em desenvolvimento]
 
 ---
 
-Obrigado por visitar meu perfil! 🚀
+🚀🚀 Obrigado por visitar meu perfil! 🚀🚀
