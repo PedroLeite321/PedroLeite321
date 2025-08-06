@@ -8,14 +8,6 @@
 
 Sou um profissional com experiência em **infraestrutura de TI**, especialmente com **ambientes on-premise**, **virtualização com Hyper-V** e suporte técnico. Atualmente, estou expandindo meus conhecimentos em:
 
-- 🌐 **Desenvolvimento Backend** com Node.js e Express
-- ⚙️ **DevOps** e automação de infraestrutura
-- 🧠 **Integração com IA** para soluções inteligentes de suporte
-- 💻 **Frontend com React** (em aprendizado)
-
-
----
-
 ## 💼 Experiência
 
 - 🖥️ Suporte e infraestrutura de TI tradicional
@@ -23,18 +15,6 @@ Sou um profissional com experiência em **infraestrutura de TI**, especialmente 
 - 📈 Aprendizado contínuo nas áreas de programação e DevOps
 - 🌐 Gestão de redes locais
   
----
-
-## 📚 Em aprendizado
-
-- Node.js + Express (Backend)
-- React (Frontend)
-- Git & GitHub (Controle de versão)
-- PowerShell & CMD
-- CI/CD e ferramentas DevOps (foco futuro)
-
----
-
 ## 🌍 Idiomas
 
 - 🇧🇷 Português (nativo)
