@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Pedro Kauã de Barros Leite, prazer. Seja bem-vindo ao meu perfil do Github
 
-🎯 **Profissional de Infraestrutura | Explorando DevOps e Desenvolvimento Web**
+<h2>🎯 **Profissional de Infraestrutura | Explorando DevOps e Desenvolvimento Web**</h2>
 
 ---
 
